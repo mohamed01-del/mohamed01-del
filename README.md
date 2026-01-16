@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi I'm Mohamed 👋
 
-<!--
-**mohamed01-del/mohamed01-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Science Student
+- 🎓 Currently studying at **ESET Marrakech**.
+- 🎂 21 years old.
+- 📍 Based in **Marrakech, Morocco**.
+- 🚀 Passionate about Web Development and building modern applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, PHP
+- **Frameworks:** Laravel
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- **LinkedIn:**
+- **Email:** maitahmed817@gmail.com
+
+---
+⭐️ From [mohamed01-del](https://github.com/mohamed01-del)
